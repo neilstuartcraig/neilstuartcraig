@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am <a rel="me" link="https://mastodon.social/@tdp_org">neillstuartcraig</a> on GitHub.
+I am <a rel="me" href="https://mastodon.social/@tdp_org">neillstuartcraig</a> on GitHub.
